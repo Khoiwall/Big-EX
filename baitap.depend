@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1592291680 source:c:\users\user\desktop\baitap\main.cpp
+	<conio.h>
+	<windows.h>
+	<stdio.h>
+	<string.h>
+	<bits/stdc++.h>
+
+1592572760 source:c:\baitap\main.cpp
+	<conio.h>
+	<windows.h>
+	<stdio.h>
+	<string.h>
+	<bits/stdc++.h>
+
